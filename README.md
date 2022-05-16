@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Supple CSS](https://css.supple-kit.io).
+- 🔭 I’m currently working on [Supple CSS](https://github.com/supple-kit/supple-css).
 - 🌱 I’m currently learning documentation writing and JavaScript.
 - 👯 I’m looking to collaborate on awesome web-based projects.
 - 💬 Ask me about anything! 
